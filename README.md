@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://agentesnasaude.com.br/icon.png" width="100" height="100" alt="Logo Agentes na Saúde" style="border-radius: 24px; box-shadow: 0 12px 40px rgba(44,255,5,0.25); margin-bottom: 20px;" />
-  <h3>🩺 Engenheiro de Software CEO & Fundador da Agentes na Saúde</h3>
+  <h3>🩺 Engenheiro de Software Sênior & Fundador da Agentes na Saúde</h3>
   <p>Especialista em HealthTech, desenvolvimento de sistemas distribuídos de alta performance, telemetria em tempo real, inteligência artificial generativa e interoperabilidade clínica corporativa.</p>
 </div>
 
@@ -24,14 +24,13 @@ O **[Agentes na Saúde](https://agentesnasaude.com.br)** é a nossa plataforma c
 ---
 
 ## 🚀 Soluções Clínicas do Ecossistema (Portfólio de Elite)
-*Os repositórios das soluções privadas abaixo são mantidos sob sigilo comercial e segurança regulatória, mas suas arquiteturas podem ser avaliadas live:*
+*Os repositórios das soluções privadas abaixo são mantidos sob estrito sigilo comercial e segurança regulatória. Para conhecer o escopo completo, interações, prints e fluxogramas, acesse as páginas oficiais de demonstração de cada solução:*
 
 ### 📈 **Vital** — Simulador Clínico Fisiológico de Alta Fidelidade
 Plataforma realista em tempo real para capacitação prática em **Sala de Recuperação Pós-Anestésica (SRPA)** e treinamento **ACLS/ECG**.
 *   **Engenharia:** Telemetria dinâmica multi-ondas de alta performance, desfibrilador manual bifásico responsivo, cockpit do instrutor para overrides em tempo real e relatórios de debriefing pedagógico.
 *   **Stack:** React 18, FastAPI (Python), Supabase PostgreSQL com segurança RLS (Row Level Security).
-*   **🔗 Link do App:** [vital.agentesnasaude.com.br](https://vital.agentesnasaude.com.br)
-*   **🔗 Case Study Detalhado:** [agentesnasaude.com.br/vital](https://agentesnasaude.com.br/vital)
+*   **🔗 Detalhes & Demonstração:** [agentesnasaude.com.br/vital](https://agentesnasaude.com.br/vital)
 
 ---
 
@@ -39,8 +38,7 @@ Plataforma realista em tempo real para capacitação prática em **Sala de Recup
 Agente inteligente mobile que cria e gerencia cronogramas automaticamente, agendando horários de medicamentos a partir de processamento de fotos de receitas físicas.
 *   **Engenharia:** Visão computacional on-device para extração de dosagens, agendamento em calendário nativo do sistema operacional e barreira offline de segurança.
 *   **Stack:** Next.js, Tailwind CSS, SQLite Local com privacidade total (em conformidade com a LGPD).
-*   **🔗 Link do App:** [medcron.agentesnasaude.com.br](https://medcron.agentesnasaude.com.br)
-*   **🔗 Case Study Detalhado:** [agentesnasaude.com.br/medcron](https://agentesnasaude.com.br/medcron)
+*   **🔗 Detalhes & Demonstração:** [agentesnasaude.com.br/medcron](https://agentesnasaude.com.br/medcron)
 
 ---
 
@@ -48,8 +46,7 @@ Agente inteligente mobile que cria e gerencia cronogramas automaticamente, agend
 Agente clínico sênior 24h para acompanhamento pós-alta cirúrgica e suporte a decisões de saúde.
 *   **Engenharia:** Análise de feridas cirúrgicas por visão computacional, banco vetorial local isolado e interoperabilidade nativa integrada para envio direto de prontuários.
 *   **Stack:** Next.js, FastAPI, VectorDB, Padrões Globais HL7® e FHIR®.
-*   **🔗 Link do App:** [sana.agentesnasaude.com.br](https://sana.agentesnasaude.com.br)
-*   **🔗 Case Study Detalhado:** [agentesnasaude.com.br/sana](https://agentesnasaude.com.br/sana)
+*   **🔗 Detalhes & Demonstração:** [agentesnasaude.com.br/sana](https://agentesnasaude.com.br/sana)
 
 ---
 
@@ -57,8 +54,7 @@ Agente clínico sênior 24h para acompanhamento pós-alta cirúrgica e suporte a
 Evolução do paciente virtual corporativo para treinamento e capacitação acadêmica continuada em saúde.
 *   **Engenharia:** Memória de longo prazo baseada em RAG proprietário, orquestração multiagentes simulando interações clínicas complexas de anamnese.
 *   **Stack:** Next.js, Supabase, RAG.
-*   **🔗 Link do App:** [interativa.agentesnasaude.com.br](https://interativa.agentesnasaude.com.br)
-*   **🔗 Case Study Detalhado:** [agentesnasaude.com.br/interativa](https://agentesnasaude.com.br/interativa)
+*   **🔗 Detalhes & Demonstração:** [agentesnasaude.com.br/interativa](https://agentesnasaude.com.br/interativa)
 
 ---
 
@@ -66,8 +62,7 @@ Evolução do paciente virtual corporativo para treinamento e capacitação acad
 Orquestração cognitiva sênior focada na aceleração de processos de design, validação de produto e experiência do usuário (UX).
 *   **Engenharia:** LLMs especializados integrados para mapeamento de jornadas de pacientes e testes de usabilidade.
 *   **Stack:** Next.js, Framer Motion, LLM APIs.
-*   **🔗 Link do App:** [brida.agentesnasaude.com.br](https://brida.agentesnasaude.com.br)
-*   **🔗 Case Study Detalhado:** [agentesnasaude.com.br/brida](https://agentesnasaude.com.br/brida)
+*   **🔗 Detalhes & Demonstração:** [agentesnasaude.com.br/brida](https://agentesnasaude.com.br/brida)
 
 ---
 
@@ -77,7 +72,7 @@ Orquestração cognitiva sênior focada na aceleração de processos de design, 
 Ouvidoria hospitalar humanizada desenvolvida para o **Hospital Regional Hans Dieter Schmidt**, funcionando como assistente conversacional para registro de manifestações e acolhimento em saúde.
 *   **Engenharia:** Roteamento dinâmico API Proxy (BFF) contra Mixed Content e orquestração conversacional inteligente com IA.
 *   **Stack:** Next.js 15, React 19, Tailwind CSS v4, Workflow n8n, Vercel.
-*   **🔗 Repositório:** [github.com/lecele/Acolhe-Regis](https://github.com/lecele/Acolhe-Regis)
+*   **🔗 Repositório Público:** [github.com/lecele/Acolhe-Regis](https://github.com/lecele/Acolhe-Regis)
 
 ---
 
