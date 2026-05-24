@@ -1,4 +1,4 @@
-# Olá, eu sou o **Leonardo Leite (Lecele)**! 👋
+# Olá, eu sou o **Leonardo Leite (lecele)**! 
 
 <div align="center">
   <img src="./agentes_logo.png" width="340" alt="Logo Agentes na Saúde" style="margin-bottom: 20px;" />
