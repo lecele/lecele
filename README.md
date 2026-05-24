@@ -87,4 +87,4 @@ Ouvidoria hospitalar humanizada desenvolvida para o **Hospital Regional Hans Die
 ## 📬 Vamos nos conectar?
 *   **Website:** [agentesnasaude.com.br](https://agentesnasaude.com.br)
 *   **LinkedIn:** [linkedin.com/in/lecele](https://linkedin.com)
-*   **E-mail:** contato@agentesnasaude.com.br
+*   **E-mail:** leonardo@agentesnasaude.com.br
